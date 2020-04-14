@@ -16,3 +16,4 @@ class TagAdmin(admin.ModelAdmin):
 
 admin.site.register(Statement, StatementAdmin)
 admin.site.register(Tag, TagAdmin)
+#admin panel added
