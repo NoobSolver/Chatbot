@@ -4,7 +4,7 @@ import glob
 import yaml
 from chatterbot_corpus.corpus import DATA_DIRECTORY
 
-
+##directry
 CORPUS_EXTENSION = 'yml'
 
 
