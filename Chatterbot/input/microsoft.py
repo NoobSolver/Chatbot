@@ -45,3 +45,4 @@ class Microsoft(InputAdapter):
         self.chatbot.logger.info('processing user statement {}'.format(statement))
 
         return statement
+###input added
