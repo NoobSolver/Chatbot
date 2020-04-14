@@ -16,7 +16,7 @@ class MongoDatabaseAdapter(StorageAdapter):
 
        database_uri='mongodb://example.com:8100/'
     """
-
+   ##database Added
     def __init__(self, **kwargs):
         super(MongoDatabaseAdapter, self).__init__(**kwargs)
         from pymongo import MongoClient
