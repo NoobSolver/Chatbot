@@ -9,4 +9,8 @@
 * Once you downloaded this project , Make sure you install the python packages mentioned in requirement.txt.
 * Go to Chatbot_Project directory and run python server.py.
 * Above step will open the server. Now right click the index.html page and open with brower. You will be able to see the chat window where you can start the conversation and test.
-#Follow it
+# Follow it and give it a star
+
+## Contribution Guidelines -
+
+Read Contribution.md 
