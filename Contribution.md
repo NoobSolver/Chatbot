@@ -7,7 +7,7 @@ Welcome to Chatterbot, before submitting pull requests, please make sure that yo
  ## Contributing
   - - - - - - - -
  
- ###Contributor
+ ### Contributor
  
 Being one of our contributors, you agree and confirm that:
 
