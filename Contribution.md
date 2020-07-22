@@ -15,7 +15,7 @@ Being one of our contributors, you agree and confirm that:
  * No plagiarism allowed. Any plagiarized work will not be merged.
      * Your work will be distributed under MIT License once your pull request has been merged.
  * You submitted work fulfils or mostly fulfils our styles and standards.
- * New implementation New implementation are welcome! Improving comments and adding tests to existing algorithms are much appreciated.
+ * New implementation are welcome! Improving comments and adding tests to existing algorithms are much appreciated.
 
 Most importantly,
 
